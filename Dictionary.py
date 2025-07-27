@@ -1,5 +1,6 @@
 #Create a dictionary of your favorite movies and their release years. Add a new movie to the 
 #dictionary, update the release year of one of the movies, and remove a movie.
+# always remember there is key and then value in dictionary
 
 #creating dictionary of favorite movie list 
 fav_movie = {'Avatar':2009, 'Harry Potter':2000, 'Jhola':2013}
